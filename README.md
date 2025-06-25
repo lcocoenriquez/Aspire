@@ -38,6 +38,10 @@ https://learn.microsoft.com/en-us/training/paths/dotnet-aspire/?sharingId=BB94A7
 
 https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUfIayQMrRqaSL55Rkck-GD
 
+### 1.5. eShop Reference Application
+
+https://github.com/dotnet/eShop
+
 ## 2.
 
 
