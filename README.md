@@ -30,6 +30,10 @@ It is designed to simplify building, running, and composing distributed applicat
 
 https://learn.microsoft.com/en-us/collections/2203hjxnnrop11?sharingId=BB94A7F34409BD5E
 
+### 1.3.  .NET Aspire Youtube videos (Welcome to .NET Aspire!)
+
+https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUfIayQMrRqaSL55Rkck-GD
+
 ## 2.
 
 
