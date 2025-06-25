@@ -26,6 +26,9 @@ It is designed to simplify building, running, and composing distributed applicat
 
 .NET Aspire essentially brings together service orchestration, dependency wiring, and developer tooling into one experience, making complex modern applications much more approachable for .NET developers
 
+### 1.2. Learn about the .NET Aspire stack
+
+https://learn.microsoft.com/en-us/collections/2203hjxnnrop11?sharingId=BB94A7F34409BD5E
 
 ## 2.
 
