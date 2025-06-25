@@ -14,15 +14,15 @@ It is designed to simplify building, running, and composing distributed applicat
 
 ### 1.1. Key Features of .NET Aspire
 
-Orchestration: Makes it easy to define, compose, and run multi-project .NET apps locally (microservices, APIs, workers, etc.)—think “developer-friendly orchestration.”
+**Orchestration**: Makes it easy to define, compose, and run multi-project .NET apps locally (microservices, APIs, workers, etc.)—think “developer-friendly orchestration.”
 
-Componentized: Includes prebuilt components (for SQL, Redis, MongoDB, PostgreSQL, Dapr, Azure resources, etc.) that you can add and configure with minimal code
+**Componentized**: Includes prebuilt components (for SQL, Redis, MongoDB, PostgreSQL, Dapr, Azure resources, etc.) that you can add and configure with minimal code
 
-Unified Local Development: Run your whole distributed system with one command, including all dependent services (like databases, message brokers)
+**Unified Local Development**: Run your whole distributed system with one command, including all dependent services (like databases, message brokers)
 
-Cloud Transition: Prepares your solution for easy deployment to cloud platforms (Azure, AWS, etc.) by standardizing configuration and resource management
+**Cloud Transition**: Prepares your solution for easy deployment to cloud platforms (Azure, AWS, etc.) by standardizing configuration and resource management
 
-Developer Experience: Includes dashboards, health checks, diagnostics, and streamlined configuration for complex distributed systems
+**Developer Experience**: Includes dashboards, health checks, diagnostics, and streamlined configuration for complex distributed systems
 
 .NET Aspire essentially brings together service orchestration, dependency wiring, and developer tooling into one experience, making complex modern applications much more approachable for .NET developers
 
